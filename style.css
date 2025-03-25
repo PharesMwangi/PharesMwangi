@@ -1,0 +1,31 @@
+header{
+    text-align: center;
+    background-color: blueviolet;
+    color: #fff;
+    padding: 10px;
+    font-size: 24px;
+}
+body{
+    background-color: #b19191;
+    color: black;
+    padding: auto;
+    margin-bottom: 40px;
+    height: 100%;
+}
+h2{
+    text-align: center;
+    color: blue;
+}
+footer{
+text-align: center;
+background-color: blueviolet;
+color: #fff;
+width: 100%;
+padding: 10px;
+position: fixed;
+bottom: 0;
+}
+a{
+    color: white;
+    border: #fff solid 1px;
+}
