@@ -80,7 +80,7 @@ footer{
     max-width: 900px;
     margin: 20px auto;
     gap: 20px;
-    margin-bottom: 20%;
+    margin-bottom: 5%;
 }
 
 /* Left side (description) */
@@ -150,4 +150,11 @@ footer{
         width: 100%;
         max-width: 100%;
     }
+}
+.contacts{
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px auto;
+    gap: 20px;
+    margin-bottom: 20%;
 }
